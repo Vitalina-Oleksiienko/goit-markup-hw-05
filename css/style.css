@@ -61,7 +61,6 @@ header {
 a {
   text-decoration: none;
   color:var(--logo-color);
-  
 }
 a:active,
 a:visited {
@@ -115,9 +114,6 @@ a:visited {
 
 .item-contact .icon-envelope{
   align-items: center; 
-}
-.item-contact:not(:last-child){
-
 }
 .link-contact .icon-envelope{
   margin-right: 10px;
